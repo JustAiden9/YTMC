@@ -1,5 +1,5 @@
 # YouTube-Shorts-MC
-The ability to play Minecraft through YouTube Shorts using Python! 
+The ability for your chat to play Minecraft through YouTube Shorts live stream using Python! 
 
 [![Live Stream Of It Working](https://media.discordapp.net/attachments/1029194910009659462/1208912698172117052/Untitled_design_1.png?ex=65e502af&is=65d28daf&hm=7574428009cc3ccb1cf099858601843759ff93678cef7e34186923229f906dd2&=&format=webp&quality=lossless&width=1528&height=860)](https://www.youtube.com/@JustAiden. "Live Stream")
 
