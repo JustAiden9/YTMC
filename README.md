@@ -13,7 +13,7 @@ The ability to play Minecraft through YouTube Shorts using Python!
 # How Setup:
 -Start A YouTube Livestream
 
--Put the numbers after your live stream in the spot at the top and boom your good to go! For Example, the numbers after the = mark. https://www.youtube.com/watch?v=((hxsqGZdKc4I))
+-Put the numbers after your live stream in the spot at the top and boom your good to go! For Example, the numbers after the = mark. https://www.youtube.com/watch?v=hxsqGZdKc4I
 
 Use The Controls On the Left Side!
 Controls:
