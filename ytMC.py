@@ -2,7 +2,7 @@ import pytchat
 import pydirectinput
 import time
 
-VIDEO_ID = "hxsqGZdKc4I"  # Replace with the ID of your YouTube video
+VIDEO_ID = "ID"  # Replace with the ID of your YouTube video
 
 def read_youtube_chat(video_id):
     chat = pytchat.create(video_id=video_id)
