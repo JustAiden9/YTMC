@@ -3,8 +3,11 @@ The ability to play Minecraft through YouTube Shorts using Python!
 
 # How To Install:
 -Install Python
+
 -Install PIP
+
 -Install pytchat
+
 -Install pydirectinput
 
 # How Setup:
