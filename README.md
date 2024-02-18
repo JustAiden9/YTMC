@@ -18,14 +18,25 @@ The ability to play Minecraft through YouTube Shorts using Python!
 Use The Controls On the Left Side!
 Controls:
 W=Foward
+
 A=Left
+
 S=Backwards
+
 D=Right
+
 Jump=Jump
+
 Q=Drop
+
 Break=Break Block
+
 Place=Place Block
+
 Mouse Left=Look Left
+
 Mouse Right=Look Right
+
 Mouse Up=Look Up
+
 Mouse Down=Look Down
